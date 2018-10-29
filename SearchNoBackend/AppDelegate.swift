@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SearchNoBackend
 //
-//  Created by Josh Rondestvedt on 10/29/18.
+//  Created by Josh R on 10/29/18.
 //  Copyright © 2018 Josh R. All rights reserved.
 //
 
